@@ -4,3 +4,4 @@ Dept : CSE
 Year : 2026
 Cgpa : 3.8
 Currently in last year
+Finish at 2027
